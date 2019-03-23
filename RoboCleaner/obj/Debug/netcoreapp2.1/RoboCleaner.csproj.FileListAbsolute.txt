@@ -1,0 +1,33 @@
+C:\Users\timke\OneDrive\Documents\IntroToAI\RoboCleaner\obj\Debug\netcoreapp2.1\RoboCleaner.csprojAssemblyReference.cache
+C:\Users\timke\OneDrive\Documents\IntroToAI\RoboCleaner\obj\Debug\netcoreapp2.1\RoboCleaner.csproj.CoreCompileInputs.cache
+C:\Users\timke\OneDrive\Documents\IntroToAI\RoboCleaner\obj\Debug\netcoreapp2.1\RoboCleaner.AssemblyInfoInputs.cache
+C:\Users\timke\OneDrive\Documents\IntroToAI\RoboCleaner\obj\Debug\netcoreapp2.1\RoboCleaner.AssemblyInfo.cs
+C:\Users\timke\OneDrive\Documents\IntroToAI\RoboCleaner\bin\Debug\netcoreapp2.1\RoboCleaner.deps.json
+C:\Users\timke\OneDrive\Documents\IntroToAI\RoboCleaner\bin\Debug\netcoreapp2.1\RoboCleaner.runtimeconfig.json
+C:\Users\timke\OneDrive\Documents\IntroToAI\RoboCleaner\bin\Debug\netcoreapp2.1\RoboCleaner.runtimeconfig.dev.json
+C:\Users\timke\OneDrive\Documents\IntroToAI\RoboCleaner\bin\Debug\netcoreapp2.1\RoboCleaner.dll
+C:\Users\timke\OneDrive\Documents\IntroToAI\RoboCleaner\bin\Debug\netcoreapp2.1\RoboCleaner.pdb
+C:\Users\timke\OneDrive\Documents\IntroToAI\RoboCleaner\obj\Debug\netcoreapp2.1\RoboCleaner.dll
+C:\Users\timke\OneDrive\Documents\IntroToAI\RoboCleaner\obj\Debug\netcoreapp2.1\RoboCleaner.pdb
+C:\Users\timke\Google Drive\Uni\2019\Intro to AI\Code\RoboCleaner\bin\Debug\netcoreapp2.1\RoboCleaner.deps.json
+C:\Users\timke\Google Drive\Uni\2019\Intro to AI\Code\RoboCleaner\bin\Debug\netcoreapp2.1\RoboCleaner.runtimeconfig.json
+C:\Users\timke\Google Drive\Uni\2019\Intro to AI\Code\RoboCleaner\bin\Debug\netcoreapp2.1\RoboCleaner.runtimeconfig.dev.json
+C:\Users\timke\Google Drive\Uni\2019\Intro to AI\Code\RoboCleaner\bin\Debug\netcoreapp2.1\RoboCleaner.dll
+C:\Users\timke\Google Drive\Uni\2019\Intro to AI\Code\RoboCleaner\bin\Debug\netcoreapp2.1\RoboCleaner.pdb
+C:\Users\timke\Google Drive\Uni\2019\Intro to AI\Code\RoboCleaner\obj\Debug\netcoreapp2.1\RoboCleaner.csprojAssemblyReference.cache
+C:\Users\timke\Google Drive\Uni\2019\Intro to AI\Code\RoboCleaner\obj\Debug\netcoreapp2.1\RoboCleaner.csproj.CoreCompileInputs.cache
+C:\Users\timke\Google Drive\Uni\2019\Intro to AI\Code\RoboCleaner\obj\Debug\netcoreapp2.1\RoboCleaner.AssemblyInfoInputs.cache
+C:\Users\timke\Google Drive\Uni\2019\Intro to AI\Code\RoboCleaner\obj\Debug\netcoreapp2.1\RoboCleaner.AssemblyInfo.cs
+C:\Users\timke\Google Drive\Uni\2019\Intro to AI\Code\RoboCleaner\obj\Debug\netcoreapp2.1\RoboCleaner.dll
+C:\Users\timke\Google Drive\Uni\2019\Intro to AI\Code\RoboCleaner\obj\Debug\netcoreapp2.1\RoboCleaner.pdb
+C:\Users\KeesTim\Google Drive\Uni\2019\Intro to AI\Code\RoboCleaner\obj\Debug\netcoreapp2.1\RoboCleaner.csprojAssemblyReference.cache
+C:\Users\KeesTim\Google Drive\Uni\2019\Intro to AI\Code\RoboCleaner\obj\Debug\netcoreapp2.1\RoboCleaner.csproj.CoreCompileInputs.cache
+C:\Users\KeesTim\Google Drive\Uni\2019\Intro to AI\Code\RoboCleaner\obj\Debug\netcoreapp2.1\RoboCleaner.AssemblyInfoInputs.cache
+C:\Users\KeesTim\Google Drive\Uni\2019\Intro to AI\Code\RoboCleaner\obj\Debug\netcoreapp2.1\RoboCleaner.AssemblyInfo.cs
+C:\Users\KeesTim\Google Drive\Uni\2019\Intro to AI\Code\RoboCleaner\bin\Debug\netcoreapp2.1\RoboCleaner.deps.json
+C:\Users\KeesTim\Google Drive\Uni\2019\Intro to AI\Code\RoboCleaner\bin\Debug\netcoreapp2.1\RoboCleaner.runtimeconfig.json
+C:\Users\KeesTim\Google Drive\Uni\2019\Intro to AI\Code\RoboCleaner\bin\Debug\netcoreapp2.1\RoboCleaner.runtimeconfig.dev.json
+C:\Users\KeesTim\Google Drive\Uni\2019\Intro to AI\Code\RoboCleaner\bin\Debug\netcoreapp2.1\RoboCleaner.dll
+C:\Users\KeesTim\Google Drive\Uni\2019\Intro to AI\Code\RoboCleaner\bin\Debug\netcoreapp2.1\RoboCleaner.pdb
+C:\Users\KeesTim\Google Drive\Uni\2019\Intro to AI\Code\RoboCleaner\obj\Debug\netcoreapp2.1\RoboCleaner.dll
+C:\Users\KeesTim\Google Drive\Uni\2019\Intro to AI\Code\RoboCleaner\obj\Debug\netcoreapp2.1\RoboCleaner.pdb
